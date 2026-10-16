@@ -1,0 +1,18 @@
+# Pozemok na predaj
+
+> Predám stavebný pozemok v obci Sačurov, priamo pri hlavnej ceste. Pozemok má rozlohu 2061 m² a je ideálny na výstavbu rodinného domu.
+
+## Fakta
+- Typ: pozemok
+- Druh nabídky: predaj
+- Plocha: 2061 m²
+- Vlastnictví: osobné
+- Lokalita: Sačurov
+- Cena: 35 000 €
+
+## Kontakt
+- Makléř: Róbert Harvan
+- Telefon: +421911382381
+- E-mail: harvan@jkvreal.sk
+- Kancelář: JKV GROUP s. r. o.
+- Web kanceláře: https://www.jkvreal.sk/
